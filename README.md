@@ -1,5 +1,5 @@
 # BMI-CALCULATOR-GUI-PYQT5
-A program for beginner in pyqt5 with python3. ITS A SIMPLE BMI CALCULATOR
+A program for beginner in pyqt5 with python3. ITS A SIMPLE BMI CALCULATOR WITH GUI
 
 
 REQUIREMENT
